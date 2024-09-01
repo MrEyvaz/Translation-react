@@ -1,0 +1,21 @@
+* {
+    background-image: url('../components/images/background-translation.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+.select-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
